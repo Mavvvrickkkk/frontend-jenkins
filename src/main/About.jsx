@@ -14,8 +14,7 @@ export default function About() {
         Hello all,
       </h4>
       <p style={{ color: '#34495e', fontSize: '18px', lineHeight: '1.6' }}>
-        As a part of our skill development project this semester, we have made
-        this event management platform which has 3 pages: <strong>Customer</strong>,{' '}
+        We have made this event management platform which has 3 pages: <strong>Customer</strong>,{' '}
         <strong>Admin</strong>, and <strong>Manager</strong>. Please go through
         them and give us your feedback.
       </p>
